@@ -1,5 +1,5 @@
 # Bacon_Number
-This Bacon Number calculator will tell you the degree of separation between two actors
+This Bacon Number calculator will tell you the degree of separation (if any) between two actors. This program does not use any of the python libraries due to the task's requirements.
 
 ## Replicating
 Download the source code and run the following command
